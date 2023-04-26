@@ -1,6 +1,6 @@
 ### Olá! Sou Iara Tassi
 
-Tenho 50 anos, moro em Novo Hamburgo - RS e sou apaixonada por tecnologia e felinos! Sou iniciante no universo de testes de Software, me descobri uma caçadora de bugs, tenho muito que aprender, mas o que já tive de conhecimento foi suficiente para amar!  ❤
+Moro em Novo Hamburgo - RS e sou apaixonada por tecnologia e felinos! Sou iniciante no universo de testes de Software, me descobri uma caçadora de bugs, tenho muito que aprender, mas o que já tive de conhecimento foi suficiente para amar!  ❤
 
 
 ## Estudar e me esforçar 10 vezes mais para compessar a minha idade!! Muita dedicação e determinação 🚀
