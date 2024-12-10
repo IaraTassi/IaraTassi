@@ -11,7 +11,7 @@ Atualmente, estou focada em aprimorar minhas habilidades de programação e esto
 - 💻 **Área de interesse**: Desenvolvimento de Software
 - 🎯 **Objetivo**: Colocar em prática os conhecimentos adquiridos em cursos e aprimorar minhas habilidades como desenvolvedora.
 
-## Veja meu [Portfólio](https://iaratassi.github.io/portfolio-Iara/).
+## Veja meu [Portfólio](https://new-portfolio-iara-tassi.vercel.app/).
 "Transformando curiosidade em aprendizado e desafios em conquistas."🚀
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
